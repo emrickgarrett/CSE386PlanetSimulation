@@ -1,0 +1,67 @@
+﻿Build started 12/5/2014 3:02:16 AM.
+     1>Project "C:\Users\emrickgj\Desktop\CSE386FinalProjectStilgekiEmrickgj\CSE386FinalProjectStilgekiEmrickgj\CSE386FinalProjectStilgekiEmrickgj\OpenGlCse386\OpenGlCse386.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Planet.cpp
+         Planet.cpp
+     1>c:\users\emrickgj\desktop\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\openglcse386\planet.cpp(14): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Users\emrickgj\Desktop\CSE386FinalProjectStilgekiEmrickgj\CSE386FinalProjectStilgekiEmrickgj\CSE386FinalProjectStilgekiEmrickgj\Debug\OpenGlCse386.lib" /NOLOGO Debug\bitmap_class.obj
+         Debug\BuildShaderProgram.obj
+         Debug\Cone.obj
+         Debug\Controller.obj
+         Debug\Cube.obj
+         Debug\Cylinder.obj
+         Debug\Floor.obj
+         Debug\Floor2.obj
+         Debug\glutBase.obj
+         Debug\Material.obj
+         Debug\OpenGLApplicationBase.obj
+         Debug\OrbitController.obj
+         Debug\Planet.obj
+         Debug\Pyramid.obj
+         Debug\SharedGeneralLighting.obj
+         Debug\SharedProjectionAndViewing.obj
+         Debug\SpaceShip.obj
+         Debug\Sphere.obj
+         Debug\SpinnerController.obj
+         Debug\textureCoordinates.obj
+         Debug\VisualObject.obj
+         Debug\Wall.obj
+         Debug\WaypointController.obj
+         OpenGlCse386.vcxproj -> C:\Users\emrickgj\Desktop\CSE386FinalProjectStilgekiEmrickgj\CSE386FinalProjectStilgekiEmrickgj\CSE386FinalProjectStilgekiEmrickgj\Debug\OpenGlCse386.lib
+       PostBuildEvent:
+         copy "*.h" "C:\Users\emrickgj\Desktop\CSE386FinalProjectStilgekiEmrickgj\CSE386FinalProjectStilgekiEmrickgj\CSE386FinalProjectStilgekiEmrickgj\"\Include\
+         copy "C:\Users\emrickgj\Desktop\CSE386FinalProjectStilgekiEmrickgj\CSE386FinalProjectStilgekiEmrickgj\CSE386FinalProjectStilgekiEmrickgj\Debug\OpenGlCse386.lib" "C:\Users\emrickgj\Desktop\CSE386FinalProjectStilgekiEmrickgj\CSE386FinalProjectStilgekiEmrickgj\CSE386FinalProjectStilgekiEmrickgj\"\"Lib\OpenGlCse386.lib"
+         :VCEnd
+         bitmap_class.h
+         BuildShaderProgram.h
+         Cone.h
+         Controller.h
+         Cube.h
+         Cylinder.h
+         Floor.h
+         Floor2.h
+         font.h
+         glutBase.h
+         Material.h
+         OpenGLApplicationBase.h
+         OrbitController.h
+         Planet.h
+         Pyramid.h
+         SharedGeneralLighting.h
+         SharedProjectionAndViewing.h
+         SpaceShip.h
+         Sphere.h
+         SpinnerController.h
+         textureCoordinates.h
+         vertexStructs.h
+         VisualObject.h
+         Wall.h
+         WaypointController.h
+                25 file(s) copied.
+                 1 file(s) copied.
+     1>Done Building Project "C:\Users\emrickgj\Desktop\CSE386FinalProjectStilgekiEmrickgj\CSE386FinalProjectStilgekiEmrickgj\CSE386FinalProjectStilgekiEmrickgj\OpenGlCse386\OpenGlCse386.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.39

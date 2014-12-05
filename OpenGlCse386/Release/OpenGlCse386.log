@@ -1,0 +1,56 @@
+﻿Build started 12/5/2014 12:42:37 AM.
+     1>Project "M:\CSE386\CSE386FinalProjectStilgekiEmrickgj\CSE386FinalProjectStilgekiEmrickgj\CSE386FinalProjectStilgekiEmrickgj\OpenGlCse386\OpenGlCse386.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt bitmap_class.cpp BuildShaderProgram.cpp Cone.cpp Controller.cpp Cube.cpp Cylinder.cpp Floor.cpp Floor2.cpp glutBase.cpp Material.cpp OpenGLApplicationBase.cpp OrbitController.cpp Planet.cpp Pyramid.cpp SharedGeneralLighting.cpp SharedProjectionAndViewing.cpp SpaceShip.cpp Sphere.cpp SpinnerController.cpp textureCoordinates.cpp VisualObject.cpp Wall.cpp WaypointController.cpp
+         bitmap_class.cpp
+     1>bitmap_class.cpp(75): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : see declaration of 'fopen'
+         BuildShaderProgram.cpp
+         Cone.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xmemory0(605): error C2471: cannot update program database 'm:\cse386\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\openglcse386\release\vc110.pdb'
+         Controller.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xlocnum(155): error C2471: cannot update program database 'm:\cse386\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\openglcse386\release\vc110.pdb'
+         Cube.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xlocnum(155): error C2471: cannot update program database 'm:\cse386\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\openglcse386\release\vc110.pdb'
+         Cylinder.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xmemory0(605): error C2471: cannot update program database 'm:\cse386\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\openglcse386\release\vc110.pdb'
+         Floor.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xmemory0(605): error C2471: cannot update program database 'm:\cse386\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\openglcse386\release\vc110.pdb'
+         Floor2.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xmemory0(605): error C2471: cannot update program database 'm:\cse386\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\openglcse386\release\vc110.pdb'
+         glutBase.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xlocnum(155): error C2471: cannot update program database 'm:\cse386\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\openglcse386\release\vc110.pdb'
+         Material.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xlocnum(155): error C2471: cannot update program database 'm:\cse386\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\openglcse386\release\vc110.pdb'
+         OpenGLApplicationBase.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xlocnum(155): error C2471: cannot update program database 'm:\cse386\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\openglcse386\release\vc110.pdb'
+         OrbitController.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xlocnum(155): error C2471: cannot update program database 'm:\cse386\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\openglcse386\release\vc110.pdb'
+         Planet.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xlocnum(155): error C2471: cannot update program database 'm:\cse386\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\openglcse386\release\vc110.pdb'
+         Pyramid.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xlocnum(155): error C2471: cannot update program database 'm:\cse386\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\openglcse386\release\vc110.pdb'
+         SharedGeneralLighting.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xmemory0(605): error C2471: cannot update program database 'm:\cse386\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\openglcse386\release\vc110.pdb'
+         SharedProjectionAndViewing.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xlocnum(155): error C2471: cannot update program database 'm:\cse386\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\openglcse386\release\vc110.pdb'
+         SpaceShip.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xlocnum(155): error C2471: cannot update program database 'm:\cse386\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\openglcse386\release\vc110.pdb'
+         Sphere.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xmemory0(605): error C2471: cannot update program database 'm:\cse386\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\openglcse386\release\vc110.pdb'
+         SpinnerController.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xlocnum(155): error C2471: cannot update program database 'm:\cse386\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\openglcse386\release\vc110.pdb'
+         textureCoordinates.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xstddef(226): error C2471: cannot update program database 'm:\cse386\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\cse386finalprojectstilgekiemrickgj\openglcse386\release\vc110.pdb'
+     1>M:\CSE386\CSE386FinalProjectStilgekiEmrickgj\CSE386FinalProjectStilgekiEmrickgj\CSE386FinalProjectStilgekiEmrickgj\OpenGlCse386\bitmap_class.cpp : fatal error C1083: Cannot open compiler generated file: 'Release\bitmap_class.obj': No space left on device
+     1>FileTracker : error FTK1005: could not write rooting file marker to the file tracking log file: M:\CSE386\CSE386FinalProjectStilgekiEmrickgj\CSE386FinalProjectStilgekiEmrickgj\CSE386FinalProjectStilgekiEmrickgj\OpenGlCse386\Release\CL.read.1.tlog. There is not enough space on the disk.
+         
+         
+         
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppCommon.targets(347,5): error MSB6003: The specified task executable "CL.exe" could not be run. There is not enough space on the disk.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppCommon.targets(347,5): error MSB6003: 
+     1>Done Building Project "M:\CSE386\CSE386FinalProjectStilgekiEmrickgj\CSE386FinalProjectStilgekiEmrickgj\CSE386FinalProjectStilgekiEmrickgj\OpenGlCse386\OpenGlCse386.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:47.80
